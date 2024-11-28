@@ -3,9 +3,9 @@
 
 function connection(){
     $host = "localhost";
-    $username = "root";
-    $password = "12345";
-    $database = "student_system";
+    $username = "u450897284_admin";
+    $password = "@Thelastkidds05!!@";
+    $database = "u450897284_student_system";
     
     //sqliconnection
 
