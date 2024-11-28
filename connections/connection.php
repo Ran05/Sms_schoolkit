@@ -2,7 +2,7 @@
 
 
 function connection(){
-    $host = "localhost";
+    $host = "127.0.0.1:3306";
     $username = "u450897284_admin";
     $password = "@Thelastkidds05!!@";
     $database = "u450897284_student_system";
