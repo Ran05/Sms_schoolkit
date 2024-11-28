@@ -25,7 +25,8 @@ $row = $students->fetch_assoc();
 <body>
         <h1>Student Management System</h1>
         <br><br>
-
+        <!-- button to add new student -->
+        <a href="add.php"> Add New</a>
         <table>
                 <thead>
                 <tr>
